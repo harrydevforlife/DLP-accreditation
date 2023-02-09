@@ -1,7 +1,6 @@
 # Fundamentals of the Databricks Lakehouse Platform Accreditation 
 
 _Multiple Choice_
-
 **1) Which of the following is a benefit of the Databricks Lakehouse Platform being designed to support all data and artificial intelligence (AI) workloads? Select four responses.**
 
 - [ ] Data workloads can be automatically scaled when needed.
@@ -10,15 +9,7 @@ _Multiple Choice_
 - [ ] Analysts can easily integrate their favorite business intelligence (BI) tools for further analysis.
 
 
-
-
-
-
-
-
-
 _Multiple Choice_
-
 **2) Which of the following describes what challenges a data organization would likely face when migrating from a data warehouse to a data lake? Select two responses.**
 
 - [ ] There are increased performance speeds in a data lake.
