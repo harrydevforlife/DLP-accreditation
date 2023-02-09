@@ -19,7 +19,6 @@ _Multiple Choice_
 
 
 _Multiple Choice_
-
 **3) Data organizations need specialized environments designed specifically for machine learning workloads.
 Which of the following is made available by Databricks as part of Databricks Machine Learning to support machine learning workloads? Select four responses.**
 
@@ -32,7 +31,6 @@ Which of the following is made available by Databricks as part of Databricks Mac
 
 
 _Single choice_
-
 **4) One of the foundational technologies provided by the Databricks Lakehouse Platform is an open-source, file-based storage format that provides a number of benefits. These benefits include ACID transaction guarantees, scalable data and metadata handling, audit history and time travel, table schema enforcement and schema evolution, support for deletes/updates/merges, and unified streaming and batch data processing.
 Which of the following technologies is being described in the above statement? Select one response.**
 
@@ -45,7 +43,6 @@ Which of the following technologies is being described in the above statement? S
 
 
 _Single choice_
-
 **5) Which of the following lists the relational entities in order from largest (most coarse) to smallest (most granular) within their hierarchy? Select one response.**
 
 - [ ] Schema (Database) → Metastore → Catalog → Table
@@ -56,7 +53,6 @@ _Single choice_
 
 
 _Single choice_
-
 **6) In the past, a lot of data engineering resources needed to be contributed to the development of tooling and other mechanisms for creating and managing data workloads. In response, Databricks developed and released a declarative ETL framework so data engineers can focus on helping their organizations get value from their data. 
 Which of the following technologies is being described above? Select one response.**
 
@@ -68,7 +64,6 @@ Which of the following technologies is being described above? Select one respons
 
 
 _Multiple Choice_
-
 **7) Which of the following architecture benefits is provided directly by the Databricks Lakehouse Platform? Select three responses.**
 
 - [ ] Available on and across multiple cloudsBuilt on open source and open standards
@@ -77,7 +72,6 @@ _Multiple Choice_
 
 
 _Multiple Choice_
-
 **8) Many organizations use a variety of open-source and proprietary tools for data orchestration, but these tools often have their own limitations. To address the orchestration needs of these organizations, Databricks developed Databricks Workflows.
 Which of the following is a benefit of using Databricks Workflows for orchestration purposes? Select two responses.**
 
@@ -88,7 +82,6 @@ Which of the following is a benefit of using Databricks Workflows for orchestrat
 
 
 _Single choice_
-
 **9) While the Databricks Lakehouse Platform provides support for many types of data, analytics, and machine learning workloads, some organizations prefer to continue using other preferred vendors for use cases like data ingestion, data transformation, business intelligence, and machine learning.**
 
 
@@ -100,7 +93,6 @@ _Single choice_
 
 
 _Multiple Choice_
-
 **10) Which of the following correctly describes how a specific capability of the Databricks Lakehouse Platform supports a data streaming pattern? Select three responses.**
 
 - [ ] Databricks Workflows automatically passes data from task to task in regular microbatches.
@@ -111,7 +103,6 @@ _Multiple Choice_
 
 
 _Multiple Choice_
-
 **11) Which of the following is a common problem within a data lake architecture that can be easily solved by using the Databricks Lakehouse Platform? Select three responses.**
 
 - [ ] Inability to use open-source data formats
@@ -120,7 +111,6 @@ _Multiple Choice_
 
 
 _Single choice_
-
 **12) Unity Catalog offers improved Lakehouse data object governance and organization capabilities for data segregation.
 Which of the following is a consequence of using Unity Catalog to manage, organize and segregate data objects? Select one response.**
 
@@ -132,7 +122,6 @@ Which of the following is a consequence of using Unity Catalog to manage, organi
 
 
 _Single choice_
-
 **13) It can be challenging for a data lakehouse to provide both performance and scalability for all of its query-based workloads to the standards of a data warehouse and a data lake. As a result, Databricks has introduced a technology built atop Apache Spark to further speed up and scale these varied workloads.
 Which of the following technologies is being described in the above statement? Select one response.**
 
@@ -144,7 +133,6 @@ Which of the following technologies is being described in the above statement? S
 
 
 _Multiple Choice_
-
 **14) In which of the following ways do serverless compute resources differ from classic compute resources within the Databricks Lakehouse Platform? Select two responses.**
 
 - [ ] They are always running and reserved for a single, specific customer when needed
@@ -153,7 +141,6 @@ _Multiple Choice_
 
 
 _Multiple Choice_
-
 **15)The Databricks Lakehouse Platform architecture consists of a control plane and a data plane.
 Which of the following resources exists within the Databricks control plane? Select two responses.**
 
@@ -165,7 +152,6 @@ Which of the following resources exists within the Databricks control plane? Sel
 
 
 _Multiple Choice_
-
 **16) Maintaining and improving data quality is a major goal of modern data engineering.
 Which of the following contributes directly to high levels of data quality within the Databricks Lakehouse Platform? Select two responses.**
 
@@ -177,7 +163,6 @@ Which of the following contributes directly to high levels of data quality withi
 
 
 _Single choice_
-
 **17) Data sharing has traditionally been performed by proprietary vendor solutions, SSH File Transfer Protocol (SFTP), or cloud-specific solutions. However, each of these sharing tools and solutions comes with its own set of limitations. As a result, Databricks helped to develop the solution, Delta Sharing.
 Which of the following describes Delta Sharing as a solution for data sharing? Select one response.**
 
@@ -189,7 +174,6 @@ Which of the following describes Delta Sharing as a solution for data sharing? S
 
 
 _Single choice_
-
 **18) Which of the following Databricks Lakehouse Platform services or capabilities provides a data warehousing experience to its users? Select one response.**
 
 - [ ] Databricks SQL
@@ -200,7 +184,6 @@ _Single choice_
 
 
 _Multiple Choice_
-
 **19) Which of the following data engineering capabilities simplifies the work of data engineers on the Databricks Lakehouse Platform? Select three responses.**
 
 - [ ] SQL and Python development compatibility
@@ -210,7 +193,6 @@ _Multiple Choice_
 
 
 _Multiple Choice_
-
 **20) Which of the following is a security feature made available in the Databricks Lakehouse Platform by Unity Catalog? Select two responses.**
 
 - [ ] Single-source-of-truth identity management
@@ -221,7 +203,6 @@ _Multiple Choice_
 
 
 _Single choice_
-
 **21) Which of the following do Databricks SQL users experience when using serverless Databricks SQL warehouses rather than classic Databricks SQL warehouses? Select one response.**
 
 - [ ] Expedited environment startup
@@ -232,7 +213,6 @@ _Single choice_
 
 
 _Multiple Choice_
-
 **22) Which of the following compute resources is available in the Databricks Lakehouse Platform? Select two responses.**
 
 - [ ] On-premises clusters
@@ -243,7 +223,6 @@ _Multiple Choice_
 
 
 _Multiple Choice_
-
 **23) A data architect is evaluating data warehousing solutions for their organization to use. As a part of this, the architect is considering the Databricks Lakehouse Platform.
 Which of the following is a benefit of using the Databricks Lakehouse Platform for warehousing? Select four responses.**
 
@@ -253,7 +232,6 @@ Which of the following is a benefit of using the Databricks Lakehouse Platform f
 
 
 _Single choice_
-
 **24) Which of the following describes the motivation for the creation of the data lakehouse? Select one response.**
 
 - [ ] Organizations needed a single, flexible, high-performance system to support data, analytics, and machine learning workloads.
@@ -264,7 +242,6 @@ _Single choice_
 
 
 _Single choice_
-
 **25) Which of the following describes how the Databricks Lakehouse Platform makes data governance simpler? Select one response.**
 
 - [ ] Unity Catalog provides a different governance solution for each major Databricks Lakehouse Platform Service.
