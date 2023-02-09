@@ -3,7 +3,7 @@
 _Multiple Choice_
 **1) Which of the following is a benefit of the Databricks Lakehouse Platform being designed to support all data and artificial intelligence (AI) workloads? Select four responses.**
 
-- [ ] Data workloads can be automatically scaled when needed.
+- [x] Data workloads can be automatically scaled when needed.
 - [ ] Data teams can all utilize secure data from a single source to deliver reliable, consistent results across workloads at scale.
 - [ ] There is increased need for multiple, specialist platform administrators to maintain each component of the unified platform.Data analysts, data engineers, and data scientists can easily collaborate within a single platform.
 - [ ] Analysts can easily integrate their favorite business intelligence (BI) tools for further analysis.
