@@ -10,6 +10,13 @@ _Multiple Choice_
 - [ ] Analysts can easily integrate their favorite business intelligence (BI) tools for further analysis.
 
 
+
+
+
+
+
+
+
 _Multiple Choice_
 
 **2) Which of the following describes what challenges a data organization would likely face when migrating from a data warehouse to a data lake? Select two responses.**
